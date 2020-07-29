@@ -1,3 +1,3 @@
 # story2
-this is a story.
-this is a great story.
+This is a story.
+This is a great story.
